@@ -1,6 +1,8 @@
 # Pancakeswap 刷单机器人 + 查币机器人
 
+
 ### 最新版本： v1.0
+![image](https://github.com/Dkey111/pancakeswap-clickfarming/blob/main/clickfarming.png)
 &nbsp;
 
 ### 功能齐全：
@@ -40,4 +42,3 @@
 &nbsp;
 
 #### 售价600U，当前优惠仅售500U，加群联系群主&管理： https://t.me/mingchao888 
-
