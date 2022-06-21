@@ -15,7 +15,7 @@
 - 可查看最近五笔交易hash
 
 &emsp;**查币Bot：**
-- 与Ave查币结果一模一样
+- 与Ave查币结果基本相同，是ave的优化版本
 
 
 &nbsp;
@@ -42,4 +42,4 @@
 
 &nbsp;
 
-#### 售价666U，当前优惠仅售588U，加群联系群主&管理： https://t.me/mingchao888 
+#### 售价666U，当前优惠仅售588U，TG群链接： https://t.me/mingchao888 
